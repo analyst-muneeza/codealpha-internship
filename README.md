@@ -32,6 +32,9 @@ This repository contains all projects completed during the CodeAlpha Data Analyt
 - Power BI
 - TextBlob
 
+## LOR
+[View Letter of Recommendation](https://github.com/analyst-muneeza/codealpha-internship/blob/main/CodeAlpha-LOR.pdf)
+
 ## Author
 Muneeza Ali  
 Data Analyst | Python | SQL | Power BI
