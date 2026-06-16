@@ -35,6 +35,13 @@ This repository contains all projects completed during the CodeAlpha Data Analyt
 ## LOR
 [View Letter of Recommendation](https://github.com/analyst-muneeza/codealpha-internship/blob/main/CodeAlpha-LOR.pdf)
 
+
+## Internship Certificate
+
+Successfully completed the Data Analytics Internship at CodeAlpha.
+
+📜 [View Certificate](https://github.com/analyst-muneeza/codealpha-internship/blob/main/Internship%20Certificate%20-%20CodeAlpha.pdf)
+
 ## Author
 Muneeza Ali  
 Data Analyst | Python | SQL | Power BI
